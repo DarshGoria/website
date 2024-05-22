@@ -1,0 +1,61 @@
+<html>
+	<head>
+        <link rel="stylesheet"  href="style.css" />
+		<title>Your Name resume</title>
+	</head>
+
+	<body>
+		<header id="header">
+			<h1>Darsh Goria</h1>
+			<hr>
+			Computer Science Student
+			<hr>
+		</header>
+		<main>
+			<article id="mainLeft">
+				<section>
+                    <article>
+					<h2>CONTACT</h2>
+                    Phone No: 7436090543
+                    <br>Social Media:
+                    <br><a href="https://www.instagram.com/darsh_patel_04_/">Instagram</a>
+                    <br><a href="https://www.linkedin.com/in/darsh-goria-81989025b/">LinkedIn</a>
+                    </article>
+                </section>
+				<section>
+                    <article>
+					<h2>SKILLS</h2>
+                    <ul>
+                        <li>HTML</li>
+                        <li>CSS</li>
+                        <li>Java Script</li>
+                        <li>Java</li>
+                        <li>OOPS in Java</li>
+                        <li>DSA in Java</li>
+                        <li>Collection Framework in Java</li>
+                        <li>SQL</li>
+                    </ul>
+                </article>
+                </section>
+				<section>
+                <article>
+					<h2>EDUCATION</h2>
+					<li>BTech Computer Science Engenerring (Manipal Institute Of Technology)</li>
+				</section>            
+			</article>
+			<article id="mainRight">
+				<section>
+					<h2>ABOUT</h2>
+                  <p>  I love coding. Whenever i have free time i just open my laptop and start solving coding problems. I am also very good at management. </p>
+                </section>
+				<section>
+					<h2>WORK EXPERIENCE</h2>
+					<ul>
+                        <li>Intern at Languify</li>
+                        <li>Intern at Dhir Industries</li>
+                    </ul>
+				</section>
+			</article>
+		</main>
+	</body>
+</html>
